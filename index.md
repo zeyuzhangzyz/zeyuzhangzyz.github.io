@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
     <td>
-      <h1> Xiangxiang DAI</h1>
+      <h1> Zeyu Zhang</h1>
       <a href="https://www.cse.cuhk.edu.hk/">Department of Computer Science and Engineering,</a>
       <p><b>The Chinese University of Hong Kong (CUHK)</b></p>
       <p><b>E-mail：xiangxdai0@gmail.com</b></p>
@@ -10,6 +10,7 @@
   </tr>
 </table>
 </div>
+
 
 ## About me
 I am a new Ph.D. student in [Advanced Networking and System Research Laboratory (ANSRLab)](http://ansrlab.cse.cuhk.edu.hk/) supervised by [Prof. John C.S. Lui](https://www.cse.cuhk.edu.hk/~cslui/). Before that, I obtained my bachelor's degree from [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/). I am interested in bandit theory and application. I am always open to possible collaborations. Please feel free to contact me.
