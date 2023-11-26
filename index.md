@@ -1,34 +1,38 @@
-<div>
-<table border="0">
-  <tr>
-    <td>
-      <h1> Zeyu Zhang</h1>
-      <a href="https://www.cse.cuhk.edu.hk/">Department of Computer Science and Engineering,</a>
-      <p><b>The Chinese University of Hong Kong (CUHK)</b></p>
-      <p><b>E-mail：xiangxdai0@gmail.com</b></p>
-    </td>
-  </tr>
-</table>
-</div>
+## About Me
 
+I am a senior student enrolled in the Advanced Class in Mathematics and Physics for Information Science at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/). My academic interests revolve around bandit theory and video analysis, and I am an avid amateur enthusiast in **mathematics**. I am always open to potential collaborations, so please feel free to reach out.
 
-## About me
-I am a new Ph.D. student in [Advanced Networking and System Research Laboratory (ANSRLab)](http://ansrlab.cse.cuhk.edu.hk/) supervised by [Prof. John C.S. Lui](https://www.cse.cuhk.edu.hk/~cslui/). Before that, I obtained my bachelor's degree from [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/). I am interested in bandit theory and application. I am always open to possible collaborations. Please feel free to contact me.
-
+email：hustzhangzy@gmail.com   
 
 ## Research 
-+ **Xiangxiang Dai**, Peng Yang, Xinyu Zhang, Zhewei Dai, and Li Yu, *RESPIRE: Reducing Spatial–Temporal Redundancy for Efficient Edge-Based Industrial Video Analytics*. IEEE Transactions on Industrial Informatics, vol. 18, no. 12, pp. 9324–9334, 2022. (SCI Q1, IF: 12.3).
+
+- **Chuqin Zhou, Peng Yang, Zeyu Zhang, Chengzhi Wang, and Ning Zhang**  
+  "Bandwidth-Efficient Edge Video Analytics via Frame Partitioning and Quantization Optimization,"  
+  Presented at ICC 2023 - IEEE International Conference on Communications, doi: 10.1109/ICC45041.2023.10279708.
+
+- **Xiangxiang DAI, Zeyu Zhang, Xutong Liu, Zhiyong Wang, Peng Yang, John C.S. Lui**  
+  "GACA: Grouping-Accelerated Configuration Adaptation for Edge-Based Large-Scale Video Analytics,"  
+  Submitted to WWW 2024 - The Web Conference (currently under review).
+
+- **Peng Yang, Zeyu Zhang, Ziwei Zheng, Chuqin Zhou**  
+  "An End-Edge Collaborative Boundary Frame Filtering Method for Machine Vision,"  
+  Submitted on August 31, 2022 (currently under review).
 
 ## Awards
-+ 2023-2027,  &ensp; Provost’s Strategic Allocation of Centrally-funded RPg Scholarship \
-  (30 places in CUHK)
-+ 2022,  &ensp; Pacemaker to Merit Student \
- (Highest honor in HUST, 20 students from  National Scholarship obtainers, &asymp;0.07%)
-+ 2023, &ensp; Bachelor of Honours \
-   (Highest honor for graduates in HUST in academic performance, 199/6500&asymp;3%)
-+ 2022,   &ensp;   National Scholarship
 
+- **National Scholarship** $\times$2 (Oct. 2021, Oct. 2023)  
+  - **Top 2%** - Highest honor for undergraduates in China
 
+- **Merit Student** $\times$2   (Oct. 2021, Oct. 2023)
+  - **Top 5%** - Recognized as an excellent student at our university
 
+- **Outstanding Undergraduates in Term of Academic Performance** (Oct. 2021)  
+  - **Top 1%** - Highest honor for undergraduates at HUST
 
+- *The first prize* in the 13th Mathematics Competition for Chinese University Students (Dec. 2021)
 
+- **Top 1%** in Alibaba Global Mathematics Competition (Apr. 2022)
+
+- *The second prize* in Interdisciplinary Contest in Modeling (ICM) (Jun. 2022)
+
+- *The second prize* of Hubei Area in National University Mathematical Modeling Competition (Oct. 2022)
