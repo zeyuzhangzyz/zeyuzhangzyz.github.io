@@ -20,10 +20,10 @@ email：hustzhangzy@gmail.com
 
 ## Awards
 
-- **National Scholarship** $\times$2 (Oct. 2021, Oct. 2023)  
+- **National Scholarship** × 2 (Oct. 2021, Oct. 2023)  
   - **Top 2%** - Highest honor for undergraduates in China
 
-- **Merit Student** $\times$2   (Oct. 2021, Oct. 2023)
+- **Merit Student **× 2   (Oct. 2021, Oct. 2023)
   - **Top 5%** - Recognized as an excellent student at our university
 
 - **Outstanding Undergraduates in Term of Academic Performance** (Oct. 2021)  
