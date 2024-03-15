@@ -9,14 +9,13 @@ email：hustzhangzy@gmail.com
 - **Chuqin Zhou, Peng Yang, Zeyu Zhang, Chengzhi Wang, and Ning Zhang**  
   "Bandwidth-Efficient Edge Video Analytics via Frame Partitioning and Quantization Optimization,"  
   Presented at ICC 2023 - IEEE International Conference on Communications, doi: 10.1109/ICC45041.2023.10279708.
-
 - **Xiangxiang DAI, Zeyu Zhang, Xutong Liu, Zhiyong Wang, Peng Yang, John C.S. Lui**  
   "GACA: Grouping-Accelerated Configuration Adaptation for Edge-Based Large-Scale Video Analytics,"  
-  Submitted to WWW 2024 - The Web Conference (currently under review).
+  Submitted to IJCAI 2024  (currently under review).
 
-- **Peng Yang, Zeyu Zhang, Ziwei Zheng, Chuqin Zhou**  
-  "An End-Edge Collaborative Boundary Frame Filtering Method for Machine Vision,"  
-  Submitted on August 31, 2022 (currently under review).
+
+
+
 
 ## Awards
 
