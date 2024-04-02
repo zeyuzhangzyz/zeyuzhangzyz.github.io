@@ -1,6 +1,6 @@
 ## About Me
 
-I am a senior student enrolled in the Advanced Class in Mathematics and Physics for Information Science at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/). My academic interests revolve around bandit theory and video analysis, and I am an avid amateur enthusiast in **mathematics**. I am always open to potential collaborations, so please feel free to reach out.
+I am a senior student enrolled in the Advanced Class in Mathematics and Physics for Information Science at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/). Now, I am My academic interests revolve around **bandit theory** and **video analysis**, and I am an amateur enthusiast in **mathematics**. I am always open to potential collaborations, so please feel free to reach out.
 
 email：zeyuzhangzyz@gmail.com   
 
@@ -16,7 +16,6 @@ email：zeyuzhangzyz@gmail.com
   "Bandwidth-Efficient Edge Video Analytics via Frame Partitioning and Quantization Optimization,"  
   Presented at ICC 2023 - IEEE International Conference on Communications, doi: 10.1109/ICC45041.2023.10279708.
 - Xiangxiang DAI*, **Zeyu Zhang\***, Xutong Liu, Zhiyong Wang, Peng Yang, John C.S. Lui  
-  "GACA: Grouping-Accelerated Configuration Adaptation for Edge-Based Large-Scale Video Analytics,"  
   Submitted to IJCAI 2024  (currently under review).
 
 
