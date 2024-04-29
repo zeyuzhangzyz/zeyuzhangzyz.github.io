@@ -1,6 +1,6 @@
 ## About Me
 
-I am a senior student enrolled in the Advanced Class in Mathematics and Physics for Information Science at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/). Now, I am My academic interests revolve around **bandit theory** and **video analysis**, and I am an amateur enthusiast in **mathematics**. I am always open to potential collaborations, so please feel free to reach out.
+I am a senior student enrolled in the Advanced Class in Mathematics and Physics for Information Science at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/). Now, my academic interests revolve around **bandit theory** and **video analysis**, and I am an amateur enthusiast in **mathematics**. I am always open to potential collaborations, so please feel free to reach out.
 
 email：zeyuzhangzyz@gmail.com   
 
