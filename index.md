@@ -1,12 +1,16 @@
-## About Me
+<table> <tr> <td style="width: 70%; vertical-align: top;">    # I am an incoming Ph.D. student in the department of [Computer Science and Engineering (CSE)](https://www.cse.cuhk.edu.hk/) at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html) under the supervision of Prof. [John C.S. Lui](https://www.cse.cuhk.edu.hk/~cslui/). Before that, I received a B.Sc. from the Advanced Class in Mathematics and Physics for Information Science at Huazhong University of Science and Technology (HUST). Now, my academic interests focus on **bandit theory** and **video analysis**, and I am also an amateur enthusiast in **mathematics**. I am always open to potential collaborations, so please feel free to reach out.  [Email](zeyuzhangzyz@gmail.com) / [CV](link-to-your-cv) / [Google Scholar](link-to-google-scholar) / [OpenReview](link-to-openreview) / [LinkedIn](link-to-linkedin)  </td> <td style="width: 30%; vertical-align: top;">    <img src="sample.jpg" alt="Your Name" style="width: 100%;"/>  </td> </tr> </table>
 
+
+
+
+
+## About Me
 I am an incoming Ph.D. student in the department of [Computer Science and Engineering (CSE)](https://www.cse.cuhk.edu.hk/) at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html) under the supervision of Prof. [John C.S. Lui](https://www.cse.cuhk.edu.hk/~cslui/). Before that, I received a B.Sc. from the Advanced Class in Mathematics and Physics for Information Science at Huazhong University of Science and Technology (HUST). Now, my academic interests focus on **bandit theory** and **video analysis**, and I am also an amateur enthusiast in **mathematics**. I am always open to potential collaborations, so please feel free to reach out.
 
 
 
-## Research 
 
-(* means equal contribution)
+## Research 
 
 - Chuqin Zhou, Peng Yang, **Zeyu Zhang**, Chengzhi Wang, and Ning Zhang 
   "Bandwidth-Efficient Edge Video Analytics via Frame Partitioning and Quantization Optimization,"  
