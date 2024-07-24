@@ -1,10 +1,6 @@
 ## About Me
 
-I am a senior student enrolled in the Advanced Class in Mathematics and Physics for Information Science at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/). Now, my academic interests revolve around **bandit theory** and **video analysis**, and I am an amateur enthusiast in **mathematics**. I am always open to potential collaborations, so please feel free to reach out.
-
-email：zeyuzhangzyz@gmail.com   
-
-
+I am an incoming Ph.D. student in the department of [Computer Science and Engineering (CSE)](https://www.cse.cuhk.edu.hk/) at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html) under the supervision of Prof. [John C.S. Lui](https://www.cse.cuhk.edu.hk/~cslui/). Before that, I received a B.Sc. from the Advanced Class in Mathematics and Physics for Information Science at Huazhong University of Science and Technology (HUST). Now, my academic interests focus on **bandit theory** and **video analysis**, and I am also an amateur enthusiast in **mathematics**. I am always open to potential collaborations, so please feel free to reach out.
 
 
 
@@ -15,8 +11,7 @@ email：zeyuzhangzyz@gmail.com
 - Chuqin Zhou, Peng Yang, **Zeyu Zhang**, Chengzhi Wang, and Ning Zhang 
   "Bandwidth-Efficient Edge Video Analytics via Frame Partitioning and Quantization Optimization,"  
   Presented at ICC 2023 - IEEE International Conference on Communications, doi: 10.1109/ICC45041.2023.10279708.
-- Xiangxiang DAI*, **Zeyu Zhang\***, Xutong Liu, Zhiyong Wang, Peng Yang, John C.S. Lui  
-  Submitted to IJCAI 2024  (currently under review).
+- Xiangxiang Dai, **Zeyu Zhang**, Peng Yang, Yuedong Xu, Xutong Liu, John C.S. Lui. *AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics*. Accepted in the 32nd ACM Multimedia Conference (MM), 2024. (1149/4385 = 26.2%, CCF A)
 
 
 
