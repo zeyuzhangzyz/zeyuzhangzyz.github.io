@@ -1,22 +1,17 @@
-<table style="border: none; width: 100%;">
-<tr style="border: none;">
-<td style="width: 70%; vertical-align: top; border: none;">
 
-# About Me
+<link rel="stylesheet" href="/css/style.css">
 
-I am an incoming Ph.D. student in the [Department of Computer Science and Engineering (CSE)](https://www.cse.cuhk.edu.hk/) at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html), under the supervision of Prof. [John C.S. Lui](https://www.cse.cuhk.edu.hk/~cslui/). Before this, I earned a B.Sc. from the Advanced Class in Mathematics and Physics for Information Science at Huazhong University of Science and Technology (HUST). My current academic interests focus on **Online Learning** and **Large Language Model (LLM)**. As an amateur enthusiast in mathematics, I am particularly keen on exploring the mathematical aspects of LLMs. I am always open to potential collaborations, so please feel free to reach out.
+<div class="profile-container">
+  <div class="profile-text">
+    <h1>About Me</h1>
+    <p>I am an incoming Ph.D. student in the <a href="https://www.cse.cuhk.edu.hk/">Department of Computer Science and Engineering (CSE)</a> at <a href="https://www.cuhk.edu.hk/chinese/index.html">The Chinese University of Hong Kong (CUHK)</a>, under the supervision of Prof. <a href="https://www.cse.cuhk.edu.hk/~cslui/">John C.S. Lui</a>. Before this, I earned a B.Sc. from the Advanced Class in Mathematics and Physics for Information Science at Huazhong University of Science and Technology (HUST). My current academic interests focus on <strong>Online Learning</strong> and <strong>Large Language Models (LLMs)</strong>. As an amateur enthusiast in mathematics, I am particularly keen on exploring the mathematical aspects of LLMs. I am always open to potential collaborations, so please feel free to reach out.</p>
+    <p><a href="mailto:zeyuzhangzyz@gmail.com">Email</a> / <a href="resume.pdf">CV</a> / <a href="https://github.com/zeyuzhangzyz">Github</a> / <a href="wechat.png">Wechat</a></p>
+  </div>
+  <div class="profile-image">
+    <img src="zeyu.png" alt="Your Name">
+  </div>
+</div>
 
-
-[Email](zeyuzhangzyz@gmail.com)&nbsp;&nbsp;&nbsp;   /  &nbsp;&nbsp;&nbsp;    [CV](resume.pdf)&nbsp;&nbsp;&nbsp;    /    &nbsp;&nbsp;&nbsp; [Github](https://github.com/zeyuzhangzyz)  &nbsp;&nbsp;&nbsp; /  &nbsp;&nbsp;&nbsp; [Wechat](wechat.png)   &nbsp;&nbsp;&nbsp; 
-
-</td>
-<td style="width: 30%; vertical-align: middle; text-align: center; border: none;">
-
-<img src="zeyu.png" alt="Your Name" style="width: 100%;"/>
-
-</td>
-</tr>
-</table>
 
 
 

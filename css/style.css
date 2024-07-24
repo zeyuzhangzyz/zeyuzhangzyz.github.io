@@ -1,0 +1,21 @@
+.profile-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .profile-text {
+    width: 70%;
+    padding-right: 20px;
+  }
+  
+  .profile-image {
+    width: 30%;
+    text-align: center;
+  }
+  
+  .profile-image img {
+    width: 100%;
+    max-width: 200px;
+  }
+  
