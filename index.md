@@ -12,7 +12,7 @@ I am an incoming Ph.D. student in the [Department of Computer Science and Engine
 </td>
 <td style="width: 30%; vertical-align: middle; text-align: center; border: none;">
 
-<img src="zeyu1.png" alt="Your Name" style="width: 100%;"/>
+<img src="zeyu.png" alt="Your Name" style="width: 100%;"/>
 
 </td>
 </tr>
