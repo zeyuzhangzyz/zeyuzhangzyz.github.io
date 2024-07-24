@@ -1,3 +1,0 @@
-**Peng Yang, Zeyu Zhang, Ziwei Zheng, Chuqin Zhou**  
-"An End-Edge Collaborative Boundary Frame Filtering Method for Machine Vision,"  
-Published on April 4, 2023.
