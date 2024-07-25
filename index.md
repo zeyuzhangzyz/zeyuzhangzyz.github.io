@@ -4,13 +4,17 @@
 <div class="profile-container">
   <div class="profile-text">
     <h1>About Me</h1>
-    <p>I am an incoming Ph.D. student in the <a href="https://www.cse.cuhk.edu.hk/">Department of Computer Science and Engineering (CSE)</a> at <a href="https://www.cuhk.edu.hk/chinese/index.html">The Chinese University of Hong Kong (CUHK)</a>, under the supervision of Prof. <a href="https://www.cse.cuhk.edu.hk/~cslui/">John C.S. Lui</a>. Before this, I earned a B.Sc. from the Advanced Class in Mathematics and Physics for Information Science at Huazhong University of Science and Technology (HUST). My current academic interests focus on <strong>Online Learning</strong> and <strong>Large Language Models (LLMs)</strong>. As an amateur enthusiast in mathematics, I am particularly keen on exploring the mathematical aspects of LLMs. I am always open to potential collaborations, so please feel free to reach out.</p>
-    <p><a href="mailto:zeyuzhangzyz@gmail.com">Email</a> / <a href="resume.pdf">CV</a> / <a href="https://github.com/zeyuzhangzyz">Github</a> / <a href="wechat.png">Wechat</a></p>
+    <p>I am an incoming Ph.D. student in the <a href="https://www.cse.cuhk.edu.hk/">Department of Computer Science and Engineering (CSE)</a> at <a href="https://www.cuhk.edu.hk/chinese/index.html">The Chinese University of Hong Kong (CUHK)</a>, under the supervision of Prof. <a href="https://www.cse.cuhk.edu.hk/~cslui/">John C.S. Lui</a>. Before this, I earned a B.Sc. from the Advanced Class in Mathematics and Physics for Information Science at Huazhong University of Science and Technology (HUST). My previous research focused on adjustable spatial encoding strategies for video analysis with online feedback, particularly in adapting video quality under fluctuating bandwidth conditions. Building on this experience, my current academic interests are centered on Online Learning and Large Language Models (LLMs). I am particularly intrigued by how online learning can enable LLMs to quickly adapt and learn from interactive information, much like an intelligent agent. This dynamic learning capability, I believe, is a meaningful and promising area of research. I am always open to potential collaborations, so please feel free to reach out.</p>
+    <p><a href="mailto:zeyuzhangzyz@gmail.com">Email</a> &nbsp;&nbsp;/ &nbsp;&nbsp; 
+        <a href="resume.pdf">CV</a> &nbsp;&nbsp;/ &nbsp;&nbsp;
+        <a href="https://github.com/zeyuzhangzyz">Github</a> &nbsp;&nbsp;/ &nbsp;&nbsp;
+        <a href="wechat.png">Wechat</a></p>
   </div>
   <div class="profile-image">
     <img src="zeyu.png" alt="Your Name">
   </div>
 </div>
+
 
 
 
@@ -31,19 +35,17 @@
 # Awards
 
 - National Scholarship (Oct. 2021, Oct. 2023)  
- (Top 2% - Highest honor for undergraduates in China.)
+ (Top 2% - Highest honor for undergraduates in China)
 
 - Merit Student (Oct. 2021, Oct. 2023)  
-  (Top 5% - Recognized as an excellent student at our university.)
+  (Top 5% - Excellent student at HUST)
 
 - Outstanding Undergraduates in Term of Academic Performance (Oct. 2021)  
-  (Top 1% - Highest honor for undergraduates at HUST.)
+  (Top 3% - Outstanding Undergraduates in Academics.)
 
 - Top 1% in Alibaba Global Mathematics Competition (Apr. 2022).
 
 - *The first prize* in the 13th Mathematics Competition for Chinese University Students (Dec. 2021).
-
-
 
 - *The second prize* in Interdisciplinary Contest in Modeling (ICM) (Jun. 2022).
 
